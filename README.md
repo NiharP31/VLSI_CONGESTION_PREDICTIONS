@@ -62,7 +62,7 @@ Visualizations of the results will be generated and saved in a designated output
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` [LICENSE] for more information.
 
 ## Acknowledgements
 
