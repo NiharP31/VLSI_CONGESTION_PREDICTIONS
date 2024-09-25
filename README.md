@@ -66,6 +66,6 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 ## Acknowledgements
 
-- CircuitNet Dataset
+- CircuitNet Dataset [LINK](https://circuitnet.github.io/)
 
 
