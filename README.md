@@ -4,24 +4,6 @@
 
 This project aims to predict congestion in Very Large Scale Integration (VLSI) circuits using machine learning techniques. It leverages the CircuitNet dataset to train and evaluate models for accurate congestion prediction, which is crucial for optimizing chip design and improving overall performance.
 
-## Project Structure
-
-VLSI_congestion_Prediction/  
-│  
-├── data/  
-│ └── pin_positions/  
-│  
-└── src/  
-├── data_analysis.py  
-├── dataset.py  
-├── evaluation.py  
-├── model.py  
-├── main.py  
-├── positional_encoding.py  
-├── train.py  
-└── visualization.py  
-
-
 ## Features
 
 - Data analysis and preprocessing of the CircuitNet dataset
