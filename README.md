@@ -6,20 +6,20 @@ This project aims to predict congestion in Very Large Scale Integration (VLSI) c
 
 ## Project Structure
 
-VLSI_congestion_Prediction/
-│
-├── data/
-│ └── pin_positions/
-│
-└── src/
-├── data_analysis.py
-├── dataset.py
-├── evaluation.py
-├── model.py
-├── main.py
-├── positional_encoding.py
-├── train.py
-└── visualization.py
+VLSI_congestion_Prediction/  
+│  
+├── data/  
+│ └── pin_positions/  
+│  
+└── src/  
+├── data_analysis.py  
+├── dataset.py  
+├── evaluation.py  
+├── model.py  
+├── main.py  
+├── positional_encoding.py  
+├── train.py  
+└── visualization.py  
 
 
 ## Features
